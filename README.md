@@ -10,6 +10,7 @@ Tech Used:
 
 Features:
 Action Type: loading
+
 ![Screenshot (112) (1)](https://github.com/priyahitee/react-quiz-app/assets/88586314/db074cd7-98b8-433a-a9db-31edb35bdeaa)
 
 
