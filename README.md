@@ -12,4 +12,6 @@ Features:
 Action Type: loading
 
 
+![loading](https://github.com/priyahitee/react-quiz-app/assets/88586314/f796143b-a543-4fb1-a700-37ef20237cda)
+
 
