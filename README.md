@@ -16,11 +16,12 @@ Action Type: loading
 
 Action Type: ready
 
-![ready (1)](https://github.com/priyahitee/react-quiz-app/assets/88586314/7ec0c9ed-6c0a-489c-9557-e13ce1586377)
+![ready](https://github.com/priyahitee/react-quiz-app/assets/88586314/a2b7e2b5-302e-479f-be35-c3dd53bb2c68)
 
 Action Type: active
 
-![start (1)](https://github.com/priyahitee/react-quiz-app/assets/88586314/b9c6b710-6f21-4fc4-9247-fe6099e8f38b)
+![active](https://github.com/priyahitee/react-quiz-app/assets/88586314/6d01422e-1e9f-4f25-bb41-0dedfdbdff58)
+
 
 Action Type: error
 
