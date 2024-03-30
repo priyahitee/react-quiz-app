@@ -1,4 +1,7 @@
 # quizapp
+Preview Link:
+https://priyareact-quiz-app.netlify.app/
+
 Description:
 React Quiz app by using useReducer Hooks handled multiple action type to perform different status of application loading, ready,error, active, finished, reset by dispatching it to the reducer to compute handle state changes.
 
